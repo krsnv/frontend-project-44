@@ -53,3 +53,9 @@ brain-prime
 ### Запуск "brain-even"
 
 [![asciicast](https://asciinema.org/a/UVVasde9mOTTGeEcrsMWQct0V.svg)](https://asciinema.org/a/UVVasde9mOTTGeEcrsMWQct0V)
+
+## Игра: "Калькулятор"
+### Описание:
+Показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
+### Запуск игры: "brain-calc"
+[![asciicast](https://asciinema.org/a/hOX56L3QNYT3iMHXBki6cGj1f.svg)](https://asciinema.org/a/hOX56L3QNYT3iMHXBki6cGj1f)
