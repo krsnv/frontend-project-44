@@ -57,5 +57,12 @@ brain-prime
 ## Игра: "Калькулятор"
 ### Описание:
 Показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
-### Запуск игры: "brain-calc"
+### Запуск: "brain-calc"
 [![asciicast](https://asciinema.org/a/hOX56L3QNYT3iMHXBki6cGj1f.svg)](https://asciinema.org/a/hOX56L3QNYT3iMHXBki6cGj1f)
+
+## Игра: "НОД"
+### Описание:
+Пользователю показывается два случайных числа, например, 25 50. 
+Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.
+### Запуск: "brain-gcd"
+[![asciicast](https://asciinema.org/a/NmoKllM7l9Jr7W1Q39wfT7ets.svg)](https://asciinema.org/a/NmoKllM7l9Jr7W1Q39wfT7ets)
