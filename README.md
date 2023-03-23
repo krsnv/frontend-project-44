@@ -85,3 +85,5 @@ brain-prime
 любое из чисел двумя точками. Игрок должен определить это число.
 
 ### Запуск: "brain-progression"
+
+[![asciicast](https://asciinema.org/a/ACVA6fa1i65pgWxbnxci9gu4d.svg)](https://asciinema.org/a/ACVA6fa1i65pgWxbnxci9gu4d)
