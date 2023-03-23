@@ -97,3 +97,4 @@ brain-prime
 
 ### Запуск: "brain-prime"
 
+[![asciicast](https://asciinema.org/a/XcAQKKscG7rLYFW6QevTMBr70.svg)](https://asciinema.org/a/XcAQKKscG7rLYFW6QevTMBr70)
