@@ -47,3 +47,9 @@ brain-progression
 brain-prime
 ```
 
+## Игра: "Проверка на четность"
+### Описание:
+Пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.
+### Запуск "brain-even"
+
+[![asciicast](https://asciinema.org/a/UVVasde9mOTTGeEcrsMWQct0V.svg)](https://asciinema.org/a/UVVasde9mOTTGeEcrsMWQct0V)
